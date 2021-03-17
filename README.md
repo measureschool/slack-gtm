@@ -1,5 +1,5 @@
 # Slack Webhook Template
-This is a *unofficial* Google Tag Manager Tag Template for sending data to Slack channel via Custom App Webhook
+This is a **unofficial** Google Tag Manager Tag Template for sending data to Slack channel via Custom App Webhook
 
 ## How to setup a Custom App Webhook in Slack
 
