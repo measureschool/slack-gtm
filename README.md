@@ -4,5 +4,5 @@ This is a Google Tag Manager Tag Template for sending data to Slack channel via 
 # Author
 Julian Juenemannn (https://measureschool.com)
 
-#Releaes
+# Release
 3/17/2021 Initial Release
