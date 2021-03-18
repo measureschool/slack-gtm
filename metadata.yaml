@@ -1,5 +1,5 @@
 homepage: "https://www.measureschool.com"
 documentation: "https://github.com/measureschool/slack-gtm"
 versions:
-  - sha: 59c2539c0db231b1f4bac84528b30102c64e75eb
+  - sha: fb5d402616b08c179b8aa1ce090040bdca710124
     changeNotes: Initial release.
