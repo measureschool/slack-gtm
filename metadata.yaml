@@ -1,5 +1,7 @@
 homepage: "https://www.measureschool.com"
 documentation: "https://github.com/measureschool/slack-gtm"
 versions:
+  - sha: 2de4bf849ba8c5e9a2f747676173b940e9d0ce70
+    changeNotes: Changed Request function to ignore when executed on appspot.com domain
   - sha: fb5d402616b08c179b8aa1ce090040bdca710124
     changeNotes: Initial release.
