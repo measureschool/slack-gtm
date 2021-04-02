@@ -1,5 +1,6 @@
 function sendData(data, endpoint) {
-  var xhr = new XMLHttpRequest();
+if (document.location.href.search('appspot.com') == -1) {
+var xhr = new XMLHttpRequest();
   var stringifiedData = JSON.stringify(data);
 
   xhr.open('POST', endpoint);
@@ -9,4 +10,5 @@ function sendData(data, endpoint) {
       console.error(xhr.status + '> ' + xhr.statusText);
     }
   };
+} 
 }
